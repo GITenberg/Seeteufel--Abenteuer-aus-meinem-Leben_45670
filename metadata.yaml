@@ -17,6 +17,8 @@ creator:
     - https://de.wikipedia.org/wiki/Felix_Graf_von_Luckner
     - https://en.wikipedia.org/wiki/Felix_von_Luckner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45670#Seeteufel--Abenteuer-aus-meinem-Leben
 gutenberg_issued: '2014-05-17'
 gutenberg_type: Text
 identifiers:
